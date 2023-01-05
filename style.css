@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+}
+
+/* Header styles */
+.header {
+    background-image: url(./images/donation13.jpg);
+    height: 450px;
+    width: 100%;
+    color:white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 80px;
+}
+.btn{
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+.header-description{
+    margin-top: 20px;
+}
+/* section styles */
+.section-info{
+    text-align: center;
+    margin-top: 110px;
+}
+.title-description{
+   margin-top: 12px;
+}
+.title-list{
+    margin-top: 25px;
+}
+
+.sub-title{
+    text-align: center;
+    margin-top: 80px;
+}
+
+
+.small-info{
+    margin-top: 15px;
+}
+.item-info{
+    background-color: lightblue;
+    width: 250px;
+    height: 250px;
+    padding: 40px;
+}
+.item-info-1{
+    background-color:#FFEEEE;
+    width: 250px;
+    height: 250px;
+    padding: 40px;
+}
+.item-info-2{
+    background-color:#FFF4D6;
+    width: 250px;
+    height: 250px;
+    padding: 40px;
+}
+.food-for-a-familly{
+    margin-top: 15px;
+}
+.para{
+    margin-top: 15px;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    padding: 45px 110px;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    padding: 45px 210px;
+}
+.donation{
+    width: 300px;
+}
+.donation-img{
+    height: 300px;
+    width: 400px;
+}
+.button{
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    height: 30px;
+    width: 150px;
+    border-radius: 3px;
+    margin-top: 15px;
+}
+.section-item{
+    display: flex;
+}
+.footer{
+    text-align: center;
+}
